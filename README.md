@@ -447,23 +447,11 @@ date
 <Axes: xlabel='date'>
 
 
-Click to add a cell.
-Selection deleted
-1
-2
-3
-4
-5
-# Module-14-Project
+# Project Conclusion
+Screen Shot 2021-06-27 at 10 16 31 PM
 
-# Jonathan Frazure
+Screen Shot 2021-06-27 at 10 02 05 PM
+
+Although the disparities in conclusions are slim, the first model appears to be the better one overall.
 
 
-
-Simple
-0
-37
-Python 3 (ipykernel) | Idle
-0
-machine_learning_trading_bot.ipynb
-Ln 1, Col 1
