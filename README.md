@@ -448,10 +448,8 @@ date
 
 
 # Project Conclusion
-Screen Shot 2021-06-27 at 10 16 31 PM
-
-Screen Shot 2021-06-27 at 10 02 05 PM
 
 Although the disparities in conclusions are slim, the first model appears to be the better one overall.
 
+plt.savefig('Images/.png')
 
